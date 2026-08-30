@@ -166,7 +166,7 @@ Interactive educational mobile app for kids.
 
 `Flutter` `Dart`
 
-[📂 Code](https://github.com/Rehman532/KiddoMind)
+[📲 Play Store](https://play.google.com/store/apps/details?id=com.irtechsolution.kiddomind&hl=en) · [📂 Code](https://github.com/Rehman532/KiddoMind)
 
 </td>
 </tr>
@@ -190,7 +190,7 @@ Interactive educational mobile app for kids.
 
 <a href="https://www.linkedin.com/in/rehman-farouq-93727526b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://rehmanfarouq.site"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:rehmanfarouq9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
