@@ -10,7 +10,7 @@
 
 <a href="https://rehmanfarouq.site"><img src="https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/rehman-farouq-93727526b"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:rehmanfarouq9@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Rehman532?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/>
