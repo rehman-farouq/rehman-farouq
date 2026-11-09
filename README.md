@@ -64,7 +64,6 @@ I focus on building applications that solve real business problems, deliver grea
 const rehman = {
   name: "Rehman Farouq",
   role: "Software Developer & Product Builder",
-  experience: "3+ Years",
 
   expertise: [
     "Flutter Mobile Development",
