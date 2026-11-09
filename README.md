@@ -11,12 +11,12 @@
 <a href="https://rehmanfarouq.site"><img src="https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/rehman-farouq-93727526b"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:rehmanfarouq9@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Rehman532?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/rehman-farouq?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rehman532&color=D4AF37&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Rehman532?style=flat-square&color=6D28D9&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=rehman-farouq&color=D4AF37&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/rehman-farouq?style=flat-square&color=6D28D9&label=Followers)
 
 </div>
 
@@ -105,10 +105,10 @@ class Developer {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rehman532&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehman532&layout=compact&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rehman-farouq&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehman-farouq&layout=compact&theme=radical&hide_border=true" />
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rehman532&theme=radical&hide_border=true" />
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rehman-farouq&theme=radical&hide_border=true" />
 
 </div>
 
@@ -118,7 +118,7 @@ class Developer {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rehman532&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=rehman-farouq&theme=radical&no-frame=true&row=1&column=6" />
 
 </div>
 </details>
@@ -129,7 +129,7 @@ class Developer {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Rehman532/Rehman532/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/rehman-farouq/rehman-farouq/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 
 </div>
 
@@ -141,32 +141,32 @@ class Developer {
 <tr>
 <td width="33%" valign="top">
 
-### 💇‍♀️ [Beauty Parlour](https://github.com/Rehman532/beauty-parlour)
+### 💇‍♀️ [Beauty Parlour](https://github.com/rehman-farouq/beauty-parlour)
 Modern beauty parlour website with services, boutique, and booking sections.
 
 `Next.js` `TypeScript` `Tailwind CSS`
 
-[🔗 Live Demo](https://beauty-parlour-navy.vercel.app/) · [📂 Code](https://github.com/Rehman532/beauty-parlour)
+[🔗 Live Demo](https://beauty-parlour-navy.vercel.app/) · [📂 Code](https://github.com/rehman-farouq/beauty-parlour)
 
 </td>
 <td width="33%" valign="top">
 
-### 🌐 [Portfolio](https://github.com/Rehman532/portfolio)
+### 🌐 [Portfolio](https://github.com/rehman-farouq/portfolio)
 Personal developer portfolio with a modern, responsive UI.
 
 `Next.js` `TypeScript`
 
-[🔗 Live Demo](https://rehmanfarouq.site) · [📂 Code](https://github.com/Rehman532/portfolio)
+[🔗 Live Demo](https://rehmanfarouq.site) · [📂 Code](https://github.com/rehman-farouq/portfolio)
 
 </td>
 <td width="33%" valign="top">
 
-### 🧠 [KiddoMind](https://github.com/Rehman532/KiddoMind)
+### 🧠 [KiddoMind](https://github.com/rehman-farouq/KiddoMind)
 Interactive educational mobile app for kids.
 
 `Flutter` `Dart`
 
-[📲 Play Store](https://play.google.com/store/apps/details?id=com.irtechsolution.kiddomind&hl=en) · [📂 Code](https://github.com/Rehman532/KiddoMind)
+[📲 Play Store](https://play.google.com/store/apps/details?id=com.irtechsolution.kiddomind&hl=en) · [📂 Code](https://github.com/rehman-farouq/KiddoMind)
 
 </td>
 </tr>
